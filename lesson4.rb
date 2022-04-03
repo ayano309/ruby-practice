@@ -1,0 +1,2 @@
+name = "ayano"
+puts name
